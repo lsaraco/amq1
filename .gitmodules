@@ -1,0 +1,3 @@
+[submodule "aprMaqI_CEIA"]
+	path = aprMaqI_CEIA
+	url = https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/aprMaqI_CEIA.git
